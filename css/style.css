@@ -1,0 +1,271 @@
+* {
+        margin: 0;
+        padding: 0;
+}
+
+
+header {
+        background-color: #f0fff0;
+        /* min-height: 100vh; */
+}
+
+.height{
+        min-height: 85vh;
+        align-items: center;
+}
+
+
+.navbar-brand img {
+        width: 70px;
+        /* height: 70px;
+        max-width: 100%;
+        height: auto; */
+}
+
+.nav-link {
+
+        color: #0000;
+        font-size: 16px;
+        line-height: 24px;
+}
+
+.nav-item{
+        margin-left: 25px;
+}
+
+
+
+
+
+
+
+.banner-content{
+        
+}
+.banner-content h5{
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+        color: #FD511A; 
+}
+.banner-content .span-hero{
+        font-weight: 400;
+        font-size: 45px;
+        line-height: 24px;
+        color: #3a8725;
+}
+.banner-content h1{
+        
+}
+.banner-content p{
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 36px;
+        color: #979797; 
+}
+
+.banner-image{
+        text-align: right;
+        border-radius: 100%;
+        background-color: #F0FFF0
+}
+
+
+
+
+.btn-signin {
+        background-color: #21b572;
+        border-radius: 28px;
+        color: #ffff;
+        text-transform: capitalize;
+        padding: 4px 25px;
+}
+
+.btn-signin:hover {
+        background-color: #1a8b59;
+        color: #f0fff0;
+}
+
+
+.feature-text{
+
+        text-align: center;
+        font-weight: 500;
+        font-size: 30px;
+        line-height: 30px;
+        color:rgb(0, 0, 0);
+}
+.feature{
+        
+}
+
+.single-feature{
+        background-color: #F0FFF0
+}
+
+
+.single-feature:hover{
+        background:  #ffff;
+        box-shadow: 0px 2px 5px;
+        transform: 0.5s;
+}
+
+.single-feature img{
+        width: 70px;
+}
+
+.single-feature h3{
+        margin-top: 20px;
+        font-weight: 500;
+        font-size: 24px;
+        line-height: 36px;
+        color:rgb(92, 87, 87)
+}
+
+.single-feature p{
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+        color:rgb(92, 87, 87)
+}
+
+
+
+.cards-text h3{
+        text-align: center;
+        font-weight: 500;
+        font-size: 30px;
+        line-height: 30px;
+        color:rgb(0, 0, 0);
+
+}
+
+
+.card{
+        background:#F0FFF0 ;
+}
+
+.card:hover{
+        background:#ffffff ;
+        box-shadow: 0px 2px 5px;
+        transform: 0.5s;
+}
+.card h5{
+        margin-top: 20px;
+        font-weight: 500;
+        font-size: 24px;
+        line-height: 36px;
+        color:rgb(92, 87, 87)   
+}
+.card p{
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 36px;
+        color: #979797; 
+}
+.card span{
+        
+}
+
+
+.footer{
+        text-align: center;   
+}
+.footercolor{
+        background-color: #F0FFF0;
+        /* min-height: 85vh; */
+}
+
+.footer-img{
+        width: 45px;
+}
+
+.bg-footer{
+        background: #F0FFF0;
+        text-align: center;
+}
+.bg-footer h3{
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 20px;
+        color: rgb(0, 0, 0);
+        margin-bottom: 15px;    
+}
+.bg-footer p{
+        font-weight: 400;
+        /* font-size: 16px;
+        line-height: 36px; */
+        color: #979797; 
+}
+.footerlinks{
+        text-decoration: none;
+        font-weight: 500;
+        font-size: 70%;
+        line-height: 0.5;
+}
+
+.footerendcontents{
+        text-align: center;
+}
+.footerendcontents h3{
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 50px;
+}
+.footerendcontents p{
+        font-weight: 400;
+        font-size: 10px;
+        line-height: 0;
+}
+
+
+.fa-google{
+        color: rgb(44, 188, 114);
+        background-color: rgb(255, 255, 255);
+        width: 25px;
+        height: 25px;
+        border-radius: 50%;
+}
+.fa-google:hover{
+        background:  #ffffff;
+        box-shadow: 0px 2px 5px;
+        transform: 0.5s;
+}
+
+.fa-instagram{
+        color: rgb(44, 188, 114);
+        background-color: rgb(255, 255, 255);
+        width: 25px;
+        height: 25px;
+        border-radius: 50%;
+
+}
+.fa-instagram:hover{
+        background:  #ffffff;
+        box-shadow: 0px 2px 5px;
+        transform: 0.5s;
+}
+.fa-facebook-f{
+        color: rgb(44, 188, 114);
+        background-color: rgb(255, 255, 255);
+        width: 25px;
+        height: 25px;
+        border-radius: 50%;
+}
+.fa-facebook-f:hover{
+        background:  #ffffff;
+        box-shadow: 0px 2px 5px;
+        transform: 0.5s;
+}
+.fa-x-twitter{
+        color: rgb(44, 188, 114);
+        background-color: rgb(255, 255, 255);
+        width: 25px;
+        height: 25px;
+        border-radius: 50%;
+}
+.fa-x-twitter:hover{
+        background:  #ffffff;
+        box-shadow: 0px 2px 5px;
+        transform: 0.5s;
+}
